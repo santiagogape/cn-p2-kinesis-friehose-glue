@@ -2,6 +2,12 @@
 ---
 CN: Trabajo 2 - kinesis, firehose, Glue, athena  
 ---
+```bash
+uv init
+uv venv # si no se creo
+uv add boto3
+uv add loguru 
+```
 > cuando llegue al "10.", ejecutar con "run" para usar el venv de generado por uv. 
 
 
