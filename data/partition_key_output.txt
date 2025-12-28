@@ -1,0 +1,3129 @@
+ARTISTAS_DISTINTOS=2548
+
+## DISTRIBUCIÓN POR ARTISTA
+    $uicideboy$: 2
+    'Ery Noice: 1
+    (((()))): 1
+    *NSYNC: 1
+    -: 1
+    009 Sound System: 2
+    03 Greedo: 1
+    2 Chainz: 2
+    2 VIVE: 1
+    2'Live Bre: 1
+    21 Savage: 7
+    24kGoldn: 4
+    2Pac: 4
+    3 Doors Down: 4
+    3OH!3: 1
+    4 Non Blondes: 1
+    4batz: 2
+    4ourty8: 1
+    5 Seconds of Summer: 7
+    50 Cent: 6
+    7Horse: 1
+    932sounds: 1
+    A Boogie Wit da Hoodie: 3
+    A Great Big World: 1
+    A Tribe Called Quest: 1
+    A!MS: 2
+    A$AP Ferg: 2
+    A$AP Rocky: 7
+    A17N: 1
+    A2O: 4
+    ABBA: 6
+    AC/DC: 3
+    AFRONOM: 1
+    AGTHA: 1
+    AJ Mitchell: 1
+    AJR: 1
+    AKI: 1
+    ALEXSUCKS: 1
+    ANOHNI: 1
+    ASH7ON: 1
+    ATB: 1
+    ATLXS: 1
+    AURORA: 22
+    AWOLNATION: 2
+    AZERDK: 2
+    Aakaash Rao: 1
+    Aaliyah: 1
+    Aaron Tippin: 2
+    Aaryan Shah: 1
+    Abeer Nehme: 1
+    Adam Hicks: 2
+    Adam Lambert: 1
+    Adam Levine: 1
+    Adam Port: 1
+    Adam Skorupa: 3
+    Adam Taylor: 1
+    Addison Rae: 10
+    Adele: 41
+    Adrian Von Ziegler: 1
+    Adrianne Lenker: 4
+    Adrián Berenguer: 1
+    Aerosmith: 14
+    Aftertheparty: 1
+    Agnes Obel: 2
+    Ahmed Saad: 9
+    Aidan Bissett: 1
+    Aimee Mann: 1
+    Akon: 4
+    Alabama 3: 1
+    Alaina Castillo: 2
+    Alan Jackson: 4
+    Alan Silvestri: 5
+    Alan Walker: 15
+    Alanis Morissette: 1
+    Alec Benjamin: 3
+    Alek Olsen: 1
+    Alessandro Alessandroni: 1
+    Alessia Cara: 15
+    Alesso: 4
+    Aleta: 1
+    Alex & Sierra: 1
+    Alex Clare: 1
+    Alex G: 2
+    Alex Serra: 1
+    Alex Warren: 5
+    Alexander 23: 1
+    Alexander Merlin: 1
+    Alexander Nate: 1
+    Alexandra Savior: 2
+    Alexandra Stan: 1
+    Alexandre Desplat: 12
+    Alexey Omelchuk: 1
+    Ali Gatie: 2
+    Alice Boman: 1
+    Alice In Chains: 1
+    Alicia Keys: 4
+    Alien Ant Farm: 1
+    Alisa Okehazama: 1
+    Alison Krauss: 1
+    Allie X: 2
+    Allison Amber Hage: 3
+    Alok: 7
+    Altan Urag: 1
+    Alter Bridge: 1
+    Aly & AJ: 2
+    Amaarae: 1
+    Amb1shn: 1
+    Amber Run: 1
+    America: 1
+    America Allen: 1
+    American Authors: 1
+    Aminé: 2
+    Amy Macdonald: 1
+    Amy Winehouse: 3
+    Ana Shine: 4
+    Ananya: 1
+    Anaumali: 1
+    Andrei Krylov: 1
+    Andrew Belle: 1
+    Andy Grammer: 3
+    Andy Shauf: 1
+    Ane Brun: 1
+    Angus & Julia Stone: 1
+    Anitta: 2
+    Anna Calvi: 3
+    Anna Kendrick: 1
+    Anna Marx: 3
+    Anna of the North: 1
+    Annalise Azadian: 1
+    Anne-Marie: 2
+    Anson Seabra: 1
+    Anthem Hits Platinum: 1
+    Anthony Touma: 1
+    Anthony Willis: 1
+    Antonin Herbeck: 1
+    Antony Genn: 1
+    Apollo Sunshine: 1
+    Aqua: 1
+    Arcade Fire: 1
+    Arcane: 5
+    Arctic Monkeys: 10
+    Arcángel: 1
+    Aresty.: 1
+    Ari Abdul: 6
+    Ari Pulkkinen: 1
+    Ariana Grande: 94
+    Arizona Zervas: 1
+    Arlo Parks: 1
+    Armani White: 1
+    Armin van Buuren: 1
+    Artemas: 14
+    Arya: 1
+    Asaf Avidan: 2
+    Asal: 2
+    Ascence: 1
+    Ashanti: 1
+    Ashe: 4
+    Ashlee Keating: 1
+    Ashley Johnson: 1
+    Ashley Tisdale: 2
+    Ashnikko: 5
+    Ashris: 1
+    Ashwin Gane: 1
+    Astrid S: 2
+    AthenaDME: 1
+    Atli Örvarsson: 2
+    Au/Ra: 1
+    Audio Dope: 1
+    Audioslave: 3
+    Audrey Evans: 1
+    Austin Wintory: 3
+    Ava Beathard: 1
+    Ava Max: 6
+    Avicii: 14
+    Avril Lavigne: 24
+    Avu-chan: 1
+    Axwell / Ingrosso: 1
+    Aya Nakamura: 2
+    Ayesha Erotica: 1
+    Azealia Banks: 1
+    B.o.B: 4
+    BADBADNOTGOOD: 1
+    BAMBARA: 1
+    BANKS: 2
+    BANNERS: 2
+    BEAUZ: 3
+    BENEE: 2
+    BETHY: 1
+    BETWEEN FRIENDS: 4
+    BEXEY: 1
+    BJ Lips: 1
+    BL3SS: 1
+    BL8M: 1
+    BLACKPINK: 5
+    BOBI ANDONOV: 1
+    BOMBVY: 1
+    BONES: 2
+    BONZIE: 2
+    BRAN: 2
+    BTS: 30
+    BUNT.: 1
+    BURY: 7
+    BYOR: 1
+    Babeheaven: 1
+    Baby Bash: 1
+    Baby Keem: 2
+    Baby Tate: 1
+    Babybird: 1
+    Backstreet Boys: 3
+    Bad Bunny: 56
+    Bad Meets Evil: 1
+    Bad Wolves: 1
+    Badfinger: 1
+    Banshee: 1
+    Bare Up: 1
+    Baroque Festival Orchestra: 1
+    Basshunter: 2
+    Bastille: 3
+    Batzorig Vaanchig: 1
+    Bazzi: 4
+    Bea Miller: 1
+    Beach Bunny: 1
+    Beach House: 3
+    Beach Weather: 2
+    Bear McCreary: 21
+    Beatline: 1
+    Beau Young Prince: 1
+    Bebe Rexha: 5
+    Becky G: 3
+    Becky Hill: 1
+    Bedroom: 2
+    Bee Gees: 1
+    Bella Poarch: 1
+    Ben Cocks: 1
+    Ben E. King: 1
+    Beneld: 6
+    Benjamin Wallfisch: 1
+    Benji: 1
+    Benniee: 1
+    Benny Benassi: 1
+    Benson Boone: 7
+    Bernard Herrmann: 1
+    Besomage: 6
+    Besomorph: 14
+    Betoko: 1
+    Beyazz: 1
+    Beyoncé: 49
+    Beyond The Guitar: 6
+    Big & Rich: 1
+    Big Boss Vette: 1
+    Big Jude: 1
+    Big Red Machine: 1
+    Big Sean: 3
+    Big Swapp: 1
+    BigXthaPlug: 1
+    Bikini Kill: 1
+    Bill Brown: 6
+    Bill Elm: 5
+    Bill Elm & Woody Jackson: 3
+    Bill Withers: 1
+    Billie Eilish: 61
+    Billie Marten: 2
+    Billy Currington: 2
+    Billy Idol: 2
+    Billy Joel: 3
+    Birdy: 6
+    Bishop Briggs: 2
+    Bizarrap: 3
+    Björk: 3
+    Black Box Recorder: 1
+    Black Eyed Peas: 17
+    Black Lips: 1
+    Black M: 1
+    Black Pistol Fire: 1
+    Black Rebel Motorcycle Club: 1
+    Black Rob: 1
+    Black Sabbath: 3
+    Blackstreet: 1
+    Blake Neely: 1
+    Blake Shelton: 8
+    Blasterjaxx: 1
+    BlocBoy JB: 1
+    Blood Orange: 1
+    Bloodhound Gang: 1
+    Blu Cantrell: 1
+    Blue Foundation: 1
+    Blue Man: 1
+    Blue Öyster Cult: 1
+    Blur: 1
+    Blxst: 1
+    Bo Burnham: 2
+    Bo Diddley: 1
+    Bob Dylan: 1
+    Bobby Shmurda: 1
+    Bon Iver: 1
+    Bon Jovi: 6
+    Bonalt & Hadi: 1
+    Bone Thugs-N-Harmony: 1
+    Boney M.: 1
+    Bonnie Tyler: 1
+    Booker T. & the M.G.'s: 1
+    Borislav Slavov: 10
+    Boston: 1
+    Boy Harsher: 1
+    Boys Noize: 1
+    Boyshegz: 1
+    Boyz N Da Hood: 1
+    Brad Breeck: 1
+    Brad Paisley: 4
+    Brantley Gilbert: 4
+    Breakfast For Joey: 1
+    Breaking Benjamin: 2
+    Brent Faiyaz: 1
+    Brett Eldredge: 2
+    Brian Eno: 1
+    Brian Tyler: 11
+    Bridgit Mendler: 1
+    Briezman: 1
+    Bring Me The Horizon: 2
+    Britney Manson: 1
+    Britney Spears: 24
+    Broken Bells: 1
+    Bronski Beat: 1
+    Brooke Star: 1
+    Brooks & Dunn: 5
+    Brothers Osborne: 1
+    Bruce Springsteen: 1
+    Bruklin: 2
+    Bruno Chosen: 1
+    Bruno Mars: 27
+    Bryan Adams: 2
+    Bryce Fox: 1
+    Bryson Tiller: 4
+    Buddy Miles: 1
+    Busta Rhymes: 3
+    BØRNS: 4
+    CADDY: 5
+    CADMIUM: 3
+    CAKE: 1
+    CARYS: 1
+    CHVRCHES: 1
+    CJ: 1
+    CKay: 1
+    CRO: 3
+    Cabuizee: 2
+    Cage The Elephant: 3
+    Cailin Russo: 1
+    Cairokee: 12
+    Calum Scott: 2
+    Calvin Harris: 21
+    Camila Cabello: 20
+    Camilla Sun: 1
+    Camilo: 1
+    Candi Staton: 1
+    Capital Cities: 1
+    Cardi B: 22
+    Carl Anderson: 1
+    Carl Moon: 1
+    Carl Orff: 1
+    Carlie Hanson: 2
+    Carlos Rafael Rivera: 4
+    Carlos Vives: 1
+    Carly Rae Jepsen: 2
+    Carly Simon: 1
+    Carmen Twillie: 1
+    Carnage: 1
+    Caroline Polachek: 1
+    Carrie Underwood: 1
+    Cartoon: 1
+    Cascada: 2
+    Cassanova: 1
+    Cassie: 2
+    Casual Sex: 1
+    Cat Power: 2
+    Catfish and the Bottlemen: 1
+    Cathedrals: 1
+    Catlea: 1
+    Cecilia Krull: 1
+    CeeLo Green: 2
+    Celeste: 1
+    Central Cee: 4
+    Chad Brock: 1
+    Chamillionaire: 1
+    Chance Peña: 1
+    Chance Thomas: 2
+    Chance the Rapper: 1
+    Chappell Roan: 18
+    Charles & Eddie: 1
+    Charles Kelley: 1
+    Charli xcx: 29
+    Charlie Peacock and Les Chanteuses: 1
+    Charlie Puth: 10
+    Charlie Walker: 1
+    Charlotte Lawrence: 3
+    Charlotte de Witte: 1
+    Chase Atlantic: 15
+    Chase Matthew: 1
+    Chase Rice: 2
+    Chaël: 1
+    Cheat Codes: 3
+    Chelan: 2
+    Cheyanne: 1
+    Childish Gambino: 6
+    Chipz: 1
+    Chloe Adams: 1
+    Chloe Isabella: 1
+    Chlöe: 1
+    Chord Overstreet: 1
+    Chris Brown: 15
+    Chris Gold: 1
+    Chris Grey: 5
+    Chris Isaak: 1
+    Chris Janson: 1
+    Chris Lane: 1
+    Chris Stapleton: 1
+    Chris Wenner: 1
+    Chris Young: 15
+    Christian Kennedy: 1
+    Christian Ray Taylor: 1
+    Christina Aguilera: 6
+    Christina Perri: 26
+    Christine Slagman: 2
+    Christophe Beck: 1
+    Christopher Drake: 1
+    Christopher Lennertz: 3
+    Chromeo: 1
+    Chrystal: 1
+    Chuck Berry: 1
+    Ciara: 1
+    Cigarettes After Sex: 9
+    Cinnamon Chasers: 1
+    Cj Hooper: 1
+    Clairo: 4
+    Clamavi De Profundis: 1
+    Clams Casino: 1
+    Clara La San: 3
+    Clean Bandit: 8
+    Cliff Martinez: 3
+    Clint Black: 1
+    Clint Mansell: 1
+    Clinton Kane: 1
+    Cloud: 1
+    Clouded.: 1
+    Cobra Starship: 1
+    Cody Johnson: 1
+    Coi Leray: 1
+    Cokasian: 1
+    Coldplay: 39
+    Cole Swindell: 7
+    College: 1
+    Collosia: 1
+    Colm R. McGuinness: 1
+    Colt Ford: 1
+    Com Truise: 1
+    Commma: 1
+    ConKi: 20
+    Conan Gray: 6
+    Conway Twitty: 1
+    Coolio: 1
+    Corbin Bleu: 1
+    Cordae: 2
+    Corena: 1
+    Cour: 1
+    Craig Morgan: 1
+    Crazy Frog: 2
+    Creed: 1
+    Creedence Clearwater Revival: 2
+    Crouch End Festival Chorus: 1
+    Crowded House: 1
+    Crystal Castles: 4
+    Crystal Rock: 1
+    Cults: 3
+    Curawaka: 1
+    Curos: 1
+    Current Joys: 2
+    Cutting Crew: 1
+    Cwby: 1
+    Cyn: 1
+    Cyndi Lauper: 1
+    Cynthia Erivo: 1
+    Cypress Hill: 1
+    Cécile Corbel: 1
+    Cœur De Pirate: 1
+    D'Angelo: 2
+    D-Block Europe: 1
+    D4WNATELLO: 1
+    DDG: 1
+    DJ Fresh: 1
+    DJ Gotta: 1
+    DJ Japa NK: 1
+    DJ Khaled: 7
+    DJ Khamel: 7
+    DJ Snake: 7
+    DJ Tec: 1
+    DJSM: 2
+    DMX: 2
+    DNA: 2
+    DNCE: 2
+    DNMO: 1
+    DRAM: 2
+    DVBBS: 1
+    DVNY: 1
+    DaBaby: 3
+    Daddy Yankee: 2
+    Daft Punk: 2
+    Damien Rice: 1
+    Dan + Shay: 3
+    Dan Auerbach: 1
+    Dan Romer: 2
+    Dana Fuchs: 3
+    Dance Fruits Music: 1
+    Danheim: 1
+    Daniel Caesar: 3
+    Daniel Di Angelo: 2
+    Daniel Lanois: 8
+    Daniel Licht: 2
+    Daniel Powter: 1
+    Daniele Luppi: 1
+    Danit: 4
+    Danny Elfman: 5
+    Darci: 3
+    Dario Marianelli: 1
+    Darius Rucker: 2
+    Darkrose: 1
+    Darren Korb: 2
+    Dasha: 1
+    Daughter: 1
+    Daughtry: 1
+    Dave: 2
+    Dave Matthews Band: 1
+    Dave Porter: 1
+    Daveedtheking: 1
+    David Arkenstone: 1
+    David Arnold: 2
+    David Arnold & Michael Price: 2
+    David Ferguson: 1
+    David García Díaz: 2
+    David Guetta: 27
+    David Kushner: 1
+    David Newman: 1
+    Daya: 1
+    Daya Blaze: 5
+    Dayglow: 1
+    De La Soul: 1
+    DeBarge: 1
+    DeJ Loaf: 1
+    Dean Lewis: 7
+    Death Plus: 1
+    DeathbyRomy: 1
+    Declan McKenna: 1
+    Deep Chills: 1
+    Deep Inside: 1
+    Deep Purple: 1
+    Deftones: 3
+    Delaney Bailey: 1
+    Delinquent Habits: 1
+    Demi Lovato: 13
+    Denez Prigent: 1
+    Dennis Lucca: 1
+    Denzel Curry: 1
+    Deorro: 1
+    Depeche Mode: 3
+    Derek & The Dominos: 1
+    Dermot Kennedy: 2
+    Desiigner: 2
+    Destiny's Child: 3
+    Destroy Boys: 1
+    Diamond Rio: 1
+    Diamond Thug: 1
+    Diana Ross: 1
+    Dianna Lopez: 1
+    Dici: 1
+    Dick Dale: 1
+    Diddy - Dirty Money: 1
+    Dido: 2
+    Diego Mitre: 1
+    Dierks Bentley: 7
+    Diplo: 5
+    Dire Straits: 2
+    Disclosure: 3
+    Disco Lines: 1
+    Disturbed: 7
+    Dj Pegamento: 1
+    Djo: 1
+    Dmitri Shostakovich: 1
+    Doc Watson: 1
+    Doechii: 3
+    Doja Cat: 30
+    Dolly Parton: 3
+    Dominic Fike: 4
+    Don Diablo: 1
+    Don Toliver: 4
+    Donna Missal: 1
+    Dorothy: 2
+    Dove Cameron: 3
+    Dr. Dog: 1
+    Dr. Dre: 6
+    Drake: 84
+    Dream Chaos: 1
+    Dream Wife: 1
+    Dreamville: 1
+    Drenchill: 1
+    Dresage: 1
+    Drew Holcomb & The Neighbors: 1
+    Dreycee: 1
+    Dreyma: 3
+    Dua Lipa: 42
+    Dua Saleh: 1
+    Duke Dumont: 1
+    Duncan Laurence: 2
+    Duran Duran: 1
+    Dutch Melrose: 4
+    Dwight Yoakam: 1
+    Dxvn.: 1
+    Dybbukk: 4
+    Dylan Tha Only Child: 1
+    Dynoro: 1
+    ELECTRA: 1
+    ELI: 1
+    ELIH: 1
+    EMMY: 1
+    Eagles: 1
+    Eazy-E: 1
+    Echosmith: 1
+    Ed Sheeran: 53
+    Ed Sheeran & Justin Bieber: 1
+    Edd Stark: 1
+    Eddie van der Meer: 1
+    Edward Maya: 3
+    Egzod: 1
+    Einar Selvik: 2
+    Eiza Murphy: 1
+    El Michels Affair: 1
+    El Waili: 9
+    Elephant Revival: 3
+    Eli Young Band: 1
+    Elita: 1
+    Eliza Rose: 1
+    Ella Mai: 3
+    Elle King: 1
+    Elley Duhé: 2
+    Ellie Goulding: 11
+    Elliot: 2
+    Elliot James Reay: 1
+    Elliot Sutton: 1
+    Elliott Smith: 1
+    Ellise: 1
+    Elton John: 5
+    Elvis Drew: 8
+    Ely Oaks: 1
+    Em Beihold: 1
+    Emancipator: 1
+    Emil Rottmayer: 1
+    Emilio: 3
+    Emily Osment: 2
+    Emilíana Torrini: 1
+    Eminem: 67
+    Emm Nascimento: 1
+    Emma Louise: 1
+    Emma Thompson: 1
+    Empire Of The Sun: 2
+    Enigma: 1
+    Ennio Morricone: 8
+    Enrique Iglesias: 4
+    Entheogenic: 2
+    Enya: 1
+    Eric B. & Rakim: 1
+    Eric Church: 5
+    Eric Heitmann: 1
+    Eric McKenna: 1
+    Ericovich: 12
+    EsDeeKid: 1
+    Eslabon Armado: 1
+    Estelle: 1
+    Eternxlkz: 1
+    Ethel Cain: 1
+    Europe: 1
+    Eurythmics: 1
+    Evan Call: 3
+    Evan Rachel Wood: 1
+    Evanescence: 9
+    Everything But The Girl: 1
+    Ex Habit: 13
+    ExtraaaVibe: 1
+    Extreme: 1
+    Eyedress: 4
+    FIDLAR: 1
+    FIFTY FIFTY: 2
+    FINNEAS: 2
+    FIXL: 1
+    FKA twigs: 8
+    Fabiano Abaixo Assinado: 1
+    Fabolous: 2
+    Faith Hill: 3
+    Fall Out Boy: 3
+    Fameboy BL: 1
+    Famy: 1
+    Far East Movement: 1
+    Farizki: 1
+    Farruko: 1
+    Faruk Orman: 1
+    Fat Joe: 3
+    Favored Nations: 1
+    Faye Webster: 1
+    Feid: 1
+    Felax: 1
+    Fergie: 3
+    Fetty Wap: 4
+    Fever Ray: 1
+    Fifth Harmony: 2
+    Finn: 1
+    Fiona Apple: 11
+    Fitz and The Tantrums: 1
+    Fivio Foreign: 1
+    Fleetwood Mac: 8
+    Fleurie: 1
+    Flight: 1
+    Flo Milli: 2
+    Flo Rida: 13
+    Floats: 1
+    Florence + The Machine: 9
+    Florida Georgia Line: 10
+    Flower Face: 2
+    FloyyMenor: 1
+    Flume: 2
+    Foo Fighters: 3
+    Foreigner: 1
+    Forest Blakk: 1
+    Forrest Finn: 1
+    Forrest Frank: 1
+    Foster The People: 2
+    Fourtwnty: 1
+    Foxilitus: 2
+    Franco Micalizzi: 1
+    Frank Ocean: 6
+    Frank Walker: 1
+    Frankie Ballard: 1
+    Frankie Muriel: 1
+    Frankie Rose: 1
+    Fransii: 2
+    Franz Ferdinand: 1
+    Fraser Stott: 1
+    Fred Neil: 1
+    Fred again..: 1
+    Frederik Wiedmann: 1
+    French 79: 1
+    French Montana: 1
+    French The Kid: 1
+    Freya Ridings: 1
+    Friedrich Habetler: 1
+    Friends & Praise: 1
+    Frou Frou: 1
+    Fuerza Regida: 2
+    Fugees: 2
+    Fujii Kaze: 1
+    Fuse ODG: 2
+    Future: 24
+    G Herbo: 1
+    G-Eazy: 6
+    G-Epic: 1
+    G-Unit: 1
+    GAYLE: 2
+    GEN.KLOUD: 1
+    GINAxC: 1
+    GIVĒON: 2
+    GOVAN: 4
+    GRLwood: 2
+    GROUPLOVE: 1
+    GYMBRO: 1
+    Gabry Ponte: 3
+    Galantis: 4
+    Gammer: 1
+    Gang Starr: 1
+    Gang of Youths: 1
+    Gareth Coker: 2
+    Gary O'Slide: 10
+    Gavin Adcock: 1
+    Gavin DeGraw: 1
+    Geek Music: 3
+    Geneburn: 2
+    Genesis: 1
+    Genevieve Stokes: 1
+    Geoff Knorr: 1
+    Geoff Zanelli: 3
+    George Ezra: 2
+    George Michael: 1
+    George Strait: 8
+    Gerry Rafferty: 1
+    Gesaffelstein: 1
+    Ghost: 7
+    Ghostemane: 2
+    Gigi Perez: 2
+    Gin Wigmore: 1
+    Gina Luciani: 1
+    Ginuwine: 1
+    Gio Mkl: 1
+    Gioachino Rossini: 1
+    Girls Aloud: 1
+    Girls' Generation: 1
+    Glass Animals: 4
+    Glasser: 1
+    Glitter Party: 1
+    Global Stage Orchestra: 1
+    Gloria Kim: 1
+    Gnarls Barkley: 1
+    Good Neighbours: 1
+    Gorillaz: 2
+    Gotye: 2
+    Gracie Abrams: 8
+    Grady: 1
+    Grailz Beni: 1
+    Grateful Dead: 2
+    Green Day: 6
+    Greg Edmonson: 2
+    Greta Van Fleet: 1
+    Grimes: 7
+    Grinderman: 1
+    Groove Crackers: 1
+    Grupo Frontera: 1
+    Gryffin: 1
+    Gucci Mane: 5
+    Gulmee: 1
+    Gunna: 10
+    Guns N' Roses: 6
+    Gustavo Santaolalla: 6
+    Gustixa: 1
+    Guy Gerber: 1
+    Gwen Stefani: 4
+    Gwendolyn Sanford: 1
+    Gym Class Heroes: 5
+    HAIM: 5
+    HEALTH: 6
+    HELLYEAH: 1
+    HIXTAPE: 1
+    HRVY: 2
+    HUGEL: 1
+    HUNTR/X: 4
+    HUS: 1
+    HUTS: 1
+    Haddaway: 1
+    Haifa Wehbe: 1
+    Hailee Steinfeld: 6
+    Haley Heynderickx: 1
+    Haley Reinhart: 1
+    Halloween All-Stars: 1
+    Halsey: 19
+    Handsome Poets: 1
+    Hank Levy: 1
+    Hank Williams: 1
+    Hannah Harlacher: 1
+    Hanno: 2
+    Hans Zimmer: 50
+    Hanumankind: 2
+    Happening Now: 1
+    Harmless: 1
+    Harold Faltermeyer: 1
+    Harry Gregson-Williams: 6
+    Harry Styles: 31
+    Hayley Kiyoko: 2
+    Heart: 1
+    Heitor Pereira: 2
+    Helena Deland: 2
+    Henry Jackman: 6
+    Henry Mancini: 1
+    Henry Smith: 1
+    Henry Verus: 1
+    Hey Violet: 1
+    Hideki Taniuchi: 1
+    Hiko: 2
+    Hilary Duff: 3
+    Hildur Guðnadóttir: 4
+    Hinder: 1
+    Hippie Sabotage: 1
+    Hiroaki Tsutsumi: 2
+    Hole: 2
+    Hollywood Undead: 1
+    Homeboy Delmar: 1
+    Honey Gentry: 1
+    Honors: 1
+    Hoobastank: 3
+    Hoodie Forester: 1
+    Hot Chelle Rae: 1
+    Hotel Ugly: 2
+    Houston: 1
+    Howard Shore: 7
+    Hozier: 11
+    Hucci: 1
+    Hudson Westbrook: 1
+    Huevos Rancheros: 1
+    Huey Lewis & The News: 2
+    Huncho Jack: 1
+    Hunter Hayes: 1
+    Hurricane on Saturn: 6
+    Hyper Kenzo: 1
+    Hypermorph: 1
+    HyunA: 1
+    I DONT KNOW HOW BUT THEY FOUND ME: 5
+    I Hear Sirens: 3
+    I'll Take You There Choir: 1
+    I.U: 1
+    IAMMAG: 1
+    IAN SIZE: 4
+    IC3PEAK: 1
+    IDLES: 3
+    ILLIT: 1
+    ILURO: 7
+    IV Tune: 1
+    IZA: 1
+    Iaco: 1
+    Ian Asher: 1
+    Ice Cube: 2
+    Ice Spice: 2
+    Icon For Hire: 1
+    Icona Pop: 2
+    Idina Menzel: 1
+    Idreesi: 1
+    Iggy Azalea: 3
+    Iggy Pop: 1
+    Ilan Eshkeri: 1
+    ImXgine: 1
+    Imagine Dragons: 17
+    Imanbek: 2
+    Imogen Heap: 1
+    Incubus: 2
+    India Thieriot: 1
+    IndieHay: 1
+    Indigo Girls: 1
+    Indila: 5
+    Inner Circle: 1
+    Inon Zur: 1
+    Intellios: 1
+    Internet Money: 2
+    Irma Thomas: 1
+    Isaac Chambers: 1
+    Isabel LaRosa: 11
+    Itzhak Perlman: 1
+    Iyaz: 2
+    J 2 5: 1
+    J Balvin: 4
+    J. Baez: 1
+    J. Cole: 9
+    J.I.Bri: 1
+    JACKBOYS: 1
+    JADE: 1
+    JAY-Z: 10
+    JD & The Straight Chasers: 11
+    JENNIE: 18
+    JEREMIAS: 1
+    JISOO: 1
+    JLS: 2
+    JNL: 1
+    JNR CHOI: 1
+    JONY: 1
+    JP Cooper: 1
+    JP Saxe: 2
+    JVKE: 2
+    JVLA: 1
+    JW Velly: 1
+    Ja Rule: 2
+    Jack Harlow: 5
+    Jack Johnson: 2
+    Jack Ü: 1
+    Jacob Storey: 1
+    Jacob Tillberg: 4
+    Jadakiss: 1
+    Jaden: 2
+    Jain: 1
+    James Arthur: 11
+    James Bay: 4
+    James Blake: 1
+    James Blunt: 3
+    James Horner: 8
+    James Hype: 1
+    James Morrison: 1
+    James Newton Howard: 10
+    James Otto: 1
+    James TW: 1
+    Jamie Christopherson: 2
+    Jamie Lidell: 1
+    Jamie Salisbury aka Jonas West: 1
+    Jana Diab: 2
+    Janet Jackson: 1
+    Jann: 2
+    Jared Moreno Luna: 1
+    Jas Von: 1
+    Jason Aldean: 11
+    Jason Charles Miller: 1
+    Jason Derulo: 17
+    Jason Graves: 1
+    Jason Hayes: 1
+    Jason Mraz: 3
+    Jawsh 685: 1
+    Jax Jones: 1
+    Jay Bird: 1
+    Jay Rock: 1
+    Jay Sean: 1
+    Jaymes Young: 3
+    JeLa: 1
+    Jeff Beal: 1
+    Jeff Buckley: 1
+    Jeff Russo: 5
+    Jeff van Dyck: 1
+    Jefferson Airplane: 1
+    Jelly Roll: 1
+    Jennifer Lopez: 36
+    Jenny O.: 1
+    Jeremiah Sand: 2
+    Jeremih: 4
+    Jeremy Soule: 7
+    Jeremy Zucker: 1
+    Jeremy Zuckerman: 12
+    Jerry Goldsmith: 2
+    Jesper Kyd: 4
+    Jess Glynne: 1
+    Jesse Harlin: 1
+    Jesse Hopkins: 4
+    Jesse®: 9
+    Jessica Baran-Surel: 1
+    Jessica Mazin: 1
+    Jessica Pratt: 2
+    Jessie J: 4
+    Jessie Murph: 2
+    Jet: 1
+    Jhené Aiko: 2
+    Jiggy Tone: 1
+    Jim Bonney: 1
+    Jim Sturgess: 4
+    Jimi Hendrix: 3
+    Jimilian: 1
+    Jimin: 2
+    Jimmy Eat World: 1
+    Jin: 1
+    Jo Dee Messina: 2
+    Joan As Police Woman: 1
+    Joan Jett & the Blackhearts: 1
+    Joe Anderson: 2
+    Joe Cocker: 1
+    Joe Diffie: 1
+    Joe Henson: 2
+    Joe Hermes: 1
+    Joe Hisaishi: 7
+    Joe Nichols: 1
+    Joel Adams: 1
+    Joel Corelitz: 1
+    Joel Corry: 2
+    Joel McNeely: 1
+    Joel P West: 1
+    Joey Bada$$: 1
+    Johan Söderqvist: 1
+    John + Jane Q. Public: 1
+    John Brandt: 1
+    John Carpenter: 1
+    John Debney: 1
+    John Hartford: 1
+    John Legend: 1
+    John Michael Montgomery: 4
+    John Newman: 1
+    John Paesano: 4
+    John Powell: 18
+    John Travolta: 2
+    John Williams: 26
+    Johnning: 3
+    Johnny Cash: 1
+    Johnny Goth: 1
+    Johnny Hollow: 1
+    Johnny Rain: 1
+    Johnny Thunders: 1
+    Joji: 7
+    Jon Brion: 1
+    Jon Langston: 1
+    Jon Pardi: 5
+    Jonas Blue: 7
+    Jonas Brothers: 8
+    Jonas Kvarnström: 1
+    Jonas Lefvert: 1
+    Jonasu: 1
+    Jonna Jinton: 1
+    Jordan Adetunji: 2
+    Jordan Davis: 1
+    Jordan Parker: 2
+    Jordan Seigel: 1
+    Jordana Bryant: 2
+    Joris de Man: 1
+    Josh Abbott Band: 1
+    Josh Homme: 1
+    Josh Turner: 2
+    José González: 1
+    Journey: 4
+    Joy Again: 2
+    Joywave: 1
+    JuMa44: 1
+    Jubël: 1
+    Juice WRLD: 7
+    Juju: 1
+    Julia Michaels: 4
+    Julie Doiron: 1
+    Jung Kook: 5
+    Jungle: 1
+    Just Kids: 1
+    Justice: 1
+    Justin Bieber: 55
+    Justin Hurwitz: 1
+    Justin Timberlake: 10
+    Justine Skye: 3
+    Jutes: 1
+    Jóhann Jóhannsson: 10
+    K!llx: 2
+    K'NAAN: 1
+    K.Flay: 25
+    K3YN0T3: 1
+    KALEO: 1
+    KAROL G: 9
+    KATSEYE: 3
+    KEV-Y: 1
+    KISS: 1
+    KOLBEIN: 1
+    KROMA: 1
+    KRS-One: 2
+    KSI: 1
+    KXLLSWXTCH: 1
+    KYANU: 1
+    KYLE: 2
+    Kae: 4
+    Kailee Morgue: 1
+    Kali Uchis: 8
+    Kane Brown: 4
+    Kansas: 1
+    Kanye West: 23
+    Kaptain Swizzy: 1
+    Karin Dreijer Andersson: 1
+    Kat Dahlia: 1
+    Kate Anstey: 1
+    Kate Bush: 2
+    Kate Nash: 1
+    Kate Rusby: 1
+    Katy Perry: 56
+    Kavinsky: 2
+    Kayote: 1
+    Keane: 3
+    Kehlani: 5
+    Keira Knightley: 1
+    Keith Urban: 5
+    Keke Palmer: 1
+    Kelly Clarkson: 8
+    Kelly Rowland: 1
+    Kelsea Ballerini: 1
+    Kelsey Lu: 12
+    Kelsey Olivia: 1
+    Ken: 1
+    Kendra Erika: 1
+    Kendrick Lamar: 11
+    Kenia Os: 1
+    Kenny Chesney: 2
+    Kenya Grace: 1
+    Kenzo Cregan: 2
+    Kesha: 9
+    Kevin Gates: 1
+    Kevin Kiner: 3
+    Kevin Kiner; Gustavo Santaolalla: 1
+    Kevin MacLeod: 1
+    Kevin Penkin: 5
+    Kevin Sherwood: 1
+    Key Glock: 2
+    Khalid: 9
+    Khantrast: 1
+    Khari!: 1
+    Khruangbin: 2
+    Kid Cudi: 2
+    Kid Ink: 1
+    Kid Rock: 1
+    Kiiara: 1
+    Kiki Rockwell: 1
+    Killstation: 1
+    Kim Petras: 2
+    Kina: 1
+    Kindness: 1
+    King Crimson: 1
+    King Gizzard & The Lizard Wizard: 3
+    King Kxmi: 1
+    King Von: 1
+    Kings of Leon: 2
+    Kinneret: 1
+    Kivimetsän Druidi: 1
+    Klaas: 1
+    Klangkarussell: 1
+    Klaus Badelt: 11
+    Kleenex: 1
+    Kløn: 1
+    Kodak Black: 7
+    Kodaline: 3
+    Kohei Tanaka: 1
+    Koji Kondo: 1
+    Konet: 1
+    Kool & The Gang: 1
+    Korn: 3
+    Kotaro Nakagawa: 1
+    Kremor: 1
+    Kris Allen: 1
+    Kris James: 1
+    Kris Kross: 1
+    Kristofer Maddigan: 1
+    Kujah: 1
+    Kungs: 1
+    Kupla: 1
+    Kxng Leó: 1
+    Kygo: 8
+    Kyle Dixon & Michael Stein: 1
+    Kyu Sakamoto: 1
+    Kyuss: 1
+    L. Charlemagne: 1
+    L3NA: 1
+    LAUREL: 1
+    LE SSERAFIM: 1
+    LEIDAN: 1
+    LEROCQUE: 2
+    LIL TAY: 1
+    LISA: 5
+    LIZOT: 2
+    LMFAO: 4
+    LMNT 115: 1
+    LO LA: 1
+    LP: 1
+    LUM!X: 2
+    LV: 1
+    LXNGVX: 1
+    La Bouche: 1
+    La Roux: 2
+    Labrinth: 14
+    Labyrinth Ear: 1
+    Laci Kay Somers: 3
+    Lady A: 2
+    Lady Gaga: 70
+    Lafawndah: 1
+    Lafferty: 1
+    Laime: 1
+    Lainey Wilson: 1
+    Lali Banks: 1
+    Lana Del Rey: 99
+    Landon Cube: 1
+    Larry June: 1
+    Last Call: 4
+    Latto: 1
+    Laufey: 2
+    Laura Karpman: 1
+    Laura Marling: 1
+    Lauren Daigle: 1
+    Lauren O'Connell: 1
+    Lauren Spencer Smith: 1
+    Lauv: 5
+    Lay Bankz: 1
+    Lazerhawk: 1
+    Le Castle Vania: 1
+    Le Tigre: 1
+    League Minimum: 3
+    League of Legends: 2
+    Led Zeppelin: 1
+    Lee An: 1
+    Lee Ann Womack: 1
+    Lele Pons: 1
+    Lena&Linus: 1
+    Leon Alex: 1
+    Leon Thomas: 2
+    Leona Lewis: 1
+    Leonard Cohen: 2
+    Leonard Slatkin: 1
+    Lewis Capaldi: 12
+    Lexdez: 1
+    Lexie Stevenson: 1
+    Lia Morena: 1
+    Liam Payne: 2
+    Libby Ember: 1
+    Libianca: 1
+    Lifehouse: 1
+    Lil Baby: 15
+    Lil Dicky: 1
+    Lil Durk: 3
+    Lil God Dan: 2
+    Lil Jon & The East Side Boyz: 1
+    Lil Lano: 1
+    Lil Mosey: 1
+    Lil Nas X: 10
+    Lil Peep: 60
+    Lil Pump: 1
+    Lil Q: 2
+    Lil Skies: 2
+    Lil Tecca: 3
+    Lil Tjay: 1
+    Lil Uzi Vert: 3
+    Lil Wayne: 8
+    Lil Yachty: 1
+    Lila Holler: 1
+    Lila Wilde: 1
+    Lilly Wood and The Prick: 1
+    Lily Allen: 2
+    Limi: 1
+    Limp Bizkit: 3
+    Lindsey Fish: 1
+    Link Wray: 2
+    Linkin Park: 38
+    Lisa O'Neill: 1
+    Lithe: 1
+    Little Big Town: 1
+    Little Mix: 2
+    Lizzo: 8
+    Lizzy McAlpine: 4
+    Lofi Fruits Music: 1
+    Logic: 2
+    Lola Blanc: 1
+    Lola Young: 7
+    London Music Works: 1
+    London Symphony Orchestra: 1
+    Lonely God: 1
+    LonelyEve: 1
+    Lonestar: 2
+    Lord Huron: 2
+    Lorde: 15
+    Loreen: 1
+    Loreena McKennitt: 1
+    Lorne Balfe: 5
+    Los Lobos: 1
+    Los Lobos Featuring Arturo Sandoval: 1
+    Lost Frequencies: 2
+    Lotte Kestner: 1
+    Lou Bega: 1
+    Loud Luxury: 1
+    Louis Tomlinson: 1
+    Love: 1
+    Lucas Mazotti: 1
+    Lucasta: 1
+    Luck: 1
+    Lucky Daye: 3
+    Ludacris: 2
+    Ludwig Göransson: 9
+    Ludwig van Beethoven: 3
+    Luis Bacalov: 1
+    Luis Fonsi: 4
+    Lukas Graham: 3
+    Luke Bryan: 16
+    Luke Combs: 4
+    Luke Dean: 1
+    Lupe Fiasco: 2
+    Luude: 1
+    Lykke Li: 4
+    Lynyrd Skynyrd: 1
+    Lyrical Reign: 1
+    M.I.A.: 5
+    MAGIC!: 2
+    MARA: 2
+    MARE: 1
+    MARINA: 11
+    MARSTEREON: 1
+    MC Hammer: 1
+    MEDUZA: 2
+    MEDZ: 1
+    MEG MYERS: 2
+    MGMT: 4
+    MK: 1
+    MKTO: 1
+    MOLIY: 1
+    MONYQ: 2
+    MOTHICA: 2
+    MUSASHI PROJECT: 3
+    Mabel: 3
+    Mac DeMarco: 5
+    Mac Miller: 2
+    Macklemore: 2
+    Macklemore & Ryan Lewis: 3
+    Madi Rindge: 1
+    Madism: 1
+    Madison Beer: 7
+    Madison Ryan: 1
+    Madonna: 3
+    Madreblu: 1
+    Mae Stephens: 1
+    Magdalena Bay: 2
+    Maggie Andrew: 1
+    Maggie Lindemann: 1
+    Magic Wands: 1
+    Mahrex: 1
+    Maithili Raelle: 1
+    Majestic: 1
+    Major Lazer: 9
+    Makaveli: 1
+    Malukah: 1
+    Maluma: 1
+    Manchester Orchestra: 1
+    Mandrazo: 3
+    Manu Chao: 1
+    Manu Pilas: 2
+    Manuel Turizo: 1
+    Many Voices Speak: 1
+    Marc Streitenfeld: 3
+    MarchY: 3
+    Marcin Przybyłowicz: 10
+    Marco Beltrami: 1
+    Marco Lume: 1
+    Marcos Neiva: 1
+    Maren Morris: 1
+    Mareux: 2
+    Mariah Carey: 2
+    Mariah the Scientist: 3
+    Maribou State: 2
+    Marilyn Manson: 48
+    Mario: 1
+    Marion McPherson: 1
+    Mark Ambor: 1
+    Mark Chesnutt: 1
+    Mark Gutierrez: 1
+    Mark II: 1
+    Mark Mancina: 2
+    Mark Morrison: 1
+    Mark Mothersbaugh: 1
+    Mark Ronson: 3
+    Maroon 5: 28
+    Marshmello: 8
+    Martin Garrix: 6
+    Martin O'Donnell: 1
+    Marty Robbins: 3
+    Marvin Gaye: 1
+    Marvin Winans: 1
+    Marwan Moussa: 11
+    Masaru Yokoyama: 1
+    Masego: 1
+    Mashrou' Leila: 1
+    Masked Wolf: 1
+    Matchbox Twenty: 1
+    Matt Goss: 1
+    Matt Maeson: 1
+    Matt and Kim: 1
+    Matthew Ifield: 1
+    Mauricio Maia: 1
+    Max Dean: 1
+    Max McNown: 2
+    Maya Hawke: 1
+    Maya Kuriel: 1
+    Mazdem: 1
+    Mazzy Star: 3
+    Mblue: 1
+    Mc Slug: 1
+    Mckyyy: 2
+    Meaghan Smith: 1
+    Medasin: 1
+    Meek Mill: 1
+    Megan Moroney: 1
+    Megan Thee Stallion: 21
+    Meghan Trainor: 5
+    Mehmet tekinol: 1
+    Meka: 1
+    Melanie Martinez: 11
+    Melodream: 1
+    Men I Trust: 2
+    Meric Again: 1
+    MetaBoy: 1
+    Metallica: 4
+    Method Man: 1
+    Metric: 1
+    Metro Boomin: 9
+    Metro Exodus: 1
+    Mica Levi: 1
+    Michael Abels: 1
+    Michael Bublé: 4
+    Michael Cera: 1
+    Michael Giacchino: 19
+    Michael Hunter: 1
+    Michael Jackson: 21
+    Michael Kamen: 1
+    Michael Marcagi: 1
+    Michael Salvatori: 1
+    Michael Schulte: 2
+    Michelle Branch: 1
+    Michiru Yamane: 1
+    Mick Harvey: 1
+    Migos: 5
+    Miguel: 4
+    Mike Oldfield: 1
+    Mike Posner: 4
+    Mike Shinoda: 1
+    Mike WiLL Made-It: 1
+    Mikolai Stroinski: 8
+    Miksu / Macloud: 1
+    Mild High Club: 1
+    Miley Cyrus: 62
+    Millo: 1
+    Millows: 1
+    Mimi Webb: 2
+    Mindless Self Indulgence: 2
+    Mint Condition: 1
+    Minzie: 2
+    Mirah: 1
+    Miranda Lambert: 1
+    Misfit Milli: 1
+    Mishaal Tamer: 6
+    Miss Li: 1
+    MisterNez: 1
+    Mitski: 7
+    Mobb Deep: 3
+    Moby: 1
+    Moderat: 1
+    Modest Mouse: 1
+    Molchat Doma: 1
+    Montell Fish: 13
+    Montgomery Gentry: 1
+    Monty Cotton: 1
+    Morgan Wallen: 5
+    Morphine: 2
+    Mos Def: 1
+    Mother Mother: 3
+    Motörhead: 1
+    Movie Sounds: 1
+    Movie Sounds Unlimited: 1
+    Mr. Probz: 1
+    Mr.Kitty: 2
+    Ms Krazie: 1
+    Ms. Lauryn Hill: 1
+    Mumford & Sons: 3
+    Mumiy Troll: 1
+    Mumm-ra: 1
+    Munboi: 2
+    Muni Long: 1
+    Mura Masa: 1
+    Muse: 6
+    Mustard: 1
+    My Chemical Romance: 1
+    Mychael Danna: 2
+    Myke Towers: 1
+    Mykki Blanco: 1
+    Myles Lloyd: 1
+    Myles Smith: 3
+    Myriam Gendron: 1
+    M|O|O|N: 3
+    MØ: 1
+    Måneskin: 26
+    N'John: 1
+    N.E.R.D: 1
+    N/A: 3
+    NAV: 1
+    NAYM: 1
+    NBSPLV: 1
+    NEIKED: 2
+    NEMESIS: 1
+    NEVE: 2
+    NF: 1
+    NIKI: 3
+    NJOMZA: 1
+    NLE Choppa: 2
+    NO FEELS: 2
+    NXI: 1
+    Naeleck: 3
+    Naimos Riggerz: 1
+    Namira: 1
+    Nancy Ajram: 11
+    Nardo Wick: 1
+    Nas: 8
+    Nat & Alex Wolff: 1
+    Natalie Holt: 3
+    Natalie Jane: 1
+    Natalie La Rose: 1
+    Natalie Taylor: 1
+    Natasha Bedingfield: 2
+    Nathan Johnson: 1
+    Nathan Whitehead: 1
+    Naughty Boy: 2
+    Nazaki: 1
+    Nbdy: 1
+    Nck: 2
+    Ndotz: 1
+    Ne-Yo: 6
+    Nea: 1
+    Neal Acree: 2
+    Nebu Kiniza: 1
+    Neil Diamond: 1
+    Nelly: 4
+    Nelly Furtado: 6
+    Neon Trees: 3
+    Neoni: 1
+    Neptunica: 1
+    Nessa Barrett: 5
+    Nessi Gomes: 1
+    New West: 2
+    NewJeans: 2
+    Niall Horan: 5
+    Nic Dean: 4
+    Nicholas Bonnin: 2
+    Nicholas Britell: 3
+    Nicholas Hooper: 10
+    Nick Cave & The Bad Seeds: 2
+    Nick Hissom: 1
+    Nick Jonas: 1
+    Nickelback: 4
+    Nicki Minaj: 18
+    Nicky Jam: 1
+    Nicky Youre: 2
+    Nico & Vinz: 2
+    Night Acclaim: 1
+    Nightlite: 1
+    Niklas Dee: 3
+    Nikon: 1
+    NiloSerra: 1
+    Nina Simone: 1
+    Nine Inch Nails: 1
+    Nino Rota: 3
+    Nio Garcia: 1
+    Nirvana: 91
+    No Angels: 1
+    No Doubt: 1
+    NoMBe: 1
+    Noah Cyrus: 4
+    Noah Kahan: 2
+    Nobuo Uematsu: 1
+    Noisettes: 1
+    Normani: 1
+    Nostalgic Feeling: 1
+    Nothing But Thieves: 2
+    Now O Later: 3
+    Nu: 1
+    O-Zone: 1
+    O.T. Genasis: 1
+    OMI: 3
+    ONR: 1
+    OZORA: 1
+    Oasis: 5
+    Octavian: 1
+    October Surprise: 2
+    Odetari: 2
+    Of Monsters and Men: 1
+    Offset: 4
+    Og1savage: 1
+    Oh No: 1
+    Oh Wonder: 1
+    Oingo Boingo: 1
+    Okay Kaya: 2
+    Ola Strandh: 1
+    Old Dominion: 3
+    Old Gods of Asgard: 1
+    Oliver Cronin: 1
+    Oliver Damian: 1
+    Oliver Tree: 3
+    Olivia Bragoli: 1
+    Olivia Cox: 1
+    Olivia Dean: 3
+    Olivia Fern: 1
+    Olivia Herdt: 1
+    Olivia Newton-John: 1
+    Olivia O'Brien: 2
+    Olivia Rodrigo: 68
+    Olivia Soli: 1
+    Ollie Twist: 1
+    Olly Alexander (Years & Years): 3
+    Olly Murs: 3
+    Omarion: 1
+    Omido: 14
+    One Direction: 27
+    OneRepublic: 10
+    Opez: 1
+    Or Barak: 1
+    Orlando Kallen: 1
+    Orville Peck: 1
+    Orvyn Sol: 1
+    Oscar Maydon: 1
+    Oscen: 1
+    Other Lives: 1
+    Otto Deburaux & the Clown Lounge: 1
+    Outkast: 4
+    Ovi Jozi: 1
+    Owl City: 2
+    Ozzy Osbourne: 1
+    P!nk: 14
+    P.A.B: 1
+    P.T. Adamczyk: 1
+    PARTYNEXTDOOR: 4
+    PJ Harvey: 5
+    PLAYAMANE: 1
+    PLAZA: 1
+    POW: 1
+    PRAX: 1
+    PRETTYMUCH: 1
+    PSY: 3
+    PUBLIC: 1
+    PVRIS: 3
+    Padre Tóxico: 1
+    Palaye Royale: 1
+    Paloma Faith: 1
+    Panic! At The Disco: 2
+    Papa Roach: 3
+    Paramore: 10
+    Paris Hilton: 3
+    Paris Paloma: 6
+    Parker McCollum: 1
+    Parov Stelar: 1
+    Party Favor: 1
+    Passarella Death Squad: 1
+    Passenger: 5
+    Pastel Ghost: 9
+    Patrick Doyle: 7
+    Patrick Watson: 1
+    Paul James: 1
+    Paul Russell: 1
+    Paulo Henrique David: 1
+    Pawel Blaszczak: 2
+    Peach Tree Rascals: 1
+    Peaches: 1
+    Peachy!: 1
+    Pearl Jam: 2
+    Peggy Gou: 1
+    Penelope Scott: 2
+    Penthox: 1
+    Percival Schuttenbach: 3
+    Perpetualll: 1
+    Peso Pluma: 1
+    Pet Shop Boys: 2
+    Peter Bjorn and John: 1
+    Peter Nashel: 2
+    Phantogram: 10
+    Pharrell Williams: 3
+    Phay: 1
+    Phil Collins: 1
+    Phil Wickham: 1
+    Philip Glass: 1
+    Phillip Phillips: 3
+    Phoebe Bridgers: 4
+    Pia Baris: 1
+    Pierce The Veil: 1
+    Pinar Toprak: 7
+    Pink Floyd: 15
+    Pink Sweat$: 1
+    PinkPantheress: 11
+    Piotr Musiał: 4
+    Pirate Hunter: 1
+    Pistol Day Parade: 1
+    Pitbull: 22
+    Pixie Lott: 1
+    Pixies: 1
+    Plain White T's: 1
+    Playboi Carti: 45
+    Player1: 1
+    Polo G: 2
+    Polyphia: 1
+    Pools: 1
+    Pop Smoke: 5
+    Poppy: 4
+    Port Sulphur Band: 1
+    Porter Robinson: 1
+    Portishead: 1
+    Portugal. The Man: 2
+    Post Malone: 83
+    Poul: 1
+    Powfu: 1
+    Prasewon: 1
+    Precedence: 2
+    Pretenders: 1
+    Prezioso: 2
+    Prince Royce: 1
+    Princess Chelsea: 2
+    Project North: 2
+    Provoker: 1
+    PsychoYP: 1
+    PuFFcorn: 1
+    Puddle Of Mudd: 1
+    Purity Ring: 1
+    Quality Control: 1
+    Quavo: 3
+    Queen: 6
+    Queen Latifah: 1
+    Queens of the Stone Age: 1
+    Quevedo: 1
+    Quincy Jones: 1
+    R. Carlos Nakai: 1
+    R. City: 2
+    R. Kelly: 3
+    R.E.M.: 2
+    R2: 1
+    RAP VIỆT: 1
+    RAYE: 6
+    RHODES: 1
+    RIELL: 11
+    RL Grime: 1
+    ROSALÍA: 7
+    ROSÉ: 3
+    RXRXBBIT: 1
+    Raaban: 1
+    Rachel Platten: 1
+    Radiohead: 40
+    Rae Morris: 1
+    Rae Sremmurd: 5
+    Raekwon: 1
+    Rag'n'Bone Man: 1
+    Raghav: 1
+    Rainbow Kitten Surprise: 1
+    Raison Varner: 1
+    Rakim: 1
+    Ramin Djawadi: 9
+    Rammstein: 1
+    Randy Houser: 2
+    Randy Newman: 7
+    Rare Earth: 1
+    Rascal Flatts: 5
+    Rasheeda: 1
+    Rauw Alejandro: 1
+    Ravyn Lenae: 2
+    RealestK: 1
+    Reba McEntire: 2
+    Red Hot Chili Peppers: 9
+    Rednex: 1
+    Reed Wonder: 1
+    Regard: 1
+    Regina Spektor: 3
+    Reginaldo de Oliveira: 2
+    Rema: 1
+    Reneé Rapp: 3
+    Reprobeater: 1
+    Restricted: 1
+    Retrospectre: 1
+    Revels: 1
+    Revline: 12
+    Rex Orange County: 2
+    Rhiannon Giddens: 2
+    RiSi: 1
+    Rich Amiri: 1
+    Rich Brian: 1
+    Rich The Kid: 2
+    Richard Armitage: 1
+    Richard Hawley: 1
+    Richard Marx: 1
+    Richy Mitch & The Coal Miners: 1
+    Ricky Rich: 1
+    Riff Raff: 4
+    Right Right: 1
+    Rihanna: 52
+    Riley Green: 1
+    Rio Romeo: 1
+    Rising Appalachia: 2
+    Rising6: 1
+    Rita Ora: 3
+    Riton: 1
+    Ritt Momney: 1
+    Rival: 1
+    Roar: 1
+    Rob $tone: 1
+    Rob Grant: 2
+    Rob Thomas: 1
+    Rob Wolf: 1
+    Robbie Williams: 2
+    Robert L. Euvino: 1
+    Robert Palmer: 1
+    Roberto Diana: 1
+    Robin Carolan: 5
+    Robin Schulz: 3
+    Robin Thicke: 2
+    Robyn: 1
+    Rocco DeLuca: 1
+    Rockstar Jt: 1
+    Rod Stewart: 1
+    Rod Wave: 1
+    Roddy Ricch: 3
+    Roderic: 1
+    Rodney Atkins: 1
+    Rodrigo y Gabriela: 2
+    Roga.: 1
+    Rohan Saridena: 1
+    Ron Pope: 1
+    Rosa Linn: 3
+    Rosenfeld: 3
+    Ross Copperman: 1
+    Rosse: 1
+    Roxette: 1
+    Royal Blood: 2
+    Royel Otis: 1
+    Rudimental: 2
+    Ruelle: 2
+    Rumelis: 12
+    Rumi: 1
+    Rupert Gregson-Williams: 1
+    Russ: 2
+    Russ Millions: 1
+    Russell Dickerson: 1
+    Russell Watson: 1
+    Ruth B.: 6
+    Rvssian: 1
+    Ryan Gosling: 1
+    Ryn Weaver: 1
+    SAINt JHN: 2
+    SALES: 1
+    SAULT: 1
+    SEHORE: 1
+    SERA: 1
+    SHAED: 1
+    SIE Sound Team: 1
+    SIENNA SPIRO: 2
+    SOFIA ISELLA: 5
+    SOJA: 3
+    SPTEMBRR: 1
+    STFN: 1
+    SUICIDAL-IDOL: 1
+    SUKI: 1
+    SUNDERWORLD: 1
+    SYML: 1
+    SZA: 16
+    Sabir: 1
+    Sabrina Carpenter: 34
+    Sabrina Claudio: 1
+    Sad Puppy: 1
+    Sade: 17
+    Sadfriendd: 1
+    Safenokk: 1
+    Saint Avangeline: 1
+    Saint Motel: 1
+    Saja Boys: 2
+    Salami Rose Joe Louis: 1
+    Sam & Dave: 1
+    Sam Austins: 1
+    Sam Bruno: 1
+    Sam Cardon: 1
+    Sam Feldt: 2
+    Sam Fender: 9
+    Sam Fischer: 2
+    Sam Hunt: 4
+    Sam Plourd: 1
+    Sam Smith: 39
+    Sam Sparro: 1
+    Sam Tinnesz: 1
+    Samantha Lux: 1
+    Sammy Hagar: 1
+    Samuel Kim: 2
+    San Fernando Symphonic Assembly: 1
+    Sandra Iris: 2
+    Sandëro: 1
+    Santana: 1
+    Santigold: 1
+    Santo & Johnny: 1
+    Sara Bareilles: 2
+    Sara Kays: 1
+    Sarah Berg: 1
+    Sarah Cothran: 1
+    Sarah Jaffe: 1
+    Sarah Schachner: 2
+    Sasha Alex Sloan: 2
+    Savages: 1
+    Savant: 2
+    Sawano Hiroyuki: 2
+    Sawd Yute: 1
+    Saweetie: 2
+    ScHoolboy Q: 1
+    Scarlett Butler: 1
+    Scizzie: 1
+    Scoobert Doobert: 2
+    Score: 1
+    Scorpions: 2
+    Scott Benson Band: 1
+    Scotty McCreery: 1
+    Scouting For Girls: 3
+    Sea of Thieves: 1
+    Seafret: 1
+    Sean Callery: 1
+    Sean Dagher: 1
+    Sean Kingston: 2
+    Sean Murray: 1
+    Sean Paul: 4
+    Searows: 1
+    Sebastian Ingrosso: 1
+    Secretpath: 1
+    Seether: 1
+    Selena Gomez: 20
+    Selena Gomez & The Scene: 5
+    Senhit: 1
+    Serena: 1
+    Serena Kaya: 1
+    Sevdaliza: 2
+    Seven Kay: 1
+    Shaboozey: 2
+    Shaker: 1
+    Shakira: 43
+    Shania Twain: 2
+    Shanin Blake: 2
+    Shawn Mendes: 23
+    She & Him: 1
+    Sheck Wes: 1
+    Shehab: 1
+    Shelailai: 1
+    Shelita: 2
+    Shenandoah: 1
+    Sherine: 33
+    Shiro SAGISU: 1
+    Shouse: 1
+    Shpongle: 1
+    Shuggie Otis: 1
+    Shy Smith: 1
+    Sia: 19
+    Sickick: 1
+    Sidewalks and Skeletons: 2
+    Siena Fantini: 1
+    Sigala: 4
+    Siiickbrain: 1
+    Silentó: 1
+    Silverberg: 1
+    Sim Lakia: 1
+    Simon Curtis: 1
+    Simon Franglen: 1
+    Simple Plan: 1
+    Sir Chloe: 4
+    Sista Prod: 1
+    Ski Mask The Slump God: 3
+    Skillet: 1
+    Skinny Dippers: 1
+    Skott: 1
+    Skrillex: 9
+    Skrizzly Adams: 1
+    Sky Ferreira: 13
+    Skylar Grey: 1
+    Slayyyter: 1
+    Sleep Token: 1
+    Sleeping At Last: 3
+    Sleepy Hallow: 1
+    Slipknot: 2
+    Slowdive: 3
+    Slush Puppy: 1
+    Smash Mouth: 2
+    Smith & Liddle: 1
+    Snakehips: 1
+    Snoop Dogg: 4
+    Snow Patrol: 2
+    Snow Strippers: 1
+    SoMo: 1
+    Soap&Skin: 1
+    Sofi Tukker: 1
+    Sofia Camara: 1
+    Sofia Carson: 1
+    Sofia Mills: 1
+    Soft Cell: 2
+    Sofía Reyes: 1
+    Son Lux: 12
+    Sonic Youth: 2
+    Sonny Fodera: 2
+    Sonya Belousova: 5
+    Soolking: 1
+    Sophie Ellis-Bextor: 1
+    Sophie Thatcher: 2
+    Sopperior: 4
+    Sorana: 1
+    Soulja Boy: 2
+    Souls Of Mischief: 1
+    Sounds Kinda Good: 1
+    Sparky Deathcap: 2
+    Sped-O: 1
+    Spice: 1
+    Spice Girls: 1
+    Spongebob Squarepants: 1
+    Spotify: 1
+    Stacey Ryan: 1
+    Staind: 1
+    Stakz DeVito: 1
+    Stan Bush: 1
+    Stanza: 1
+    Starley: 1
+    Starship: 1
+    StaySolidRocky: 1
+    Steeg: 1
+    Stefflon Don: 1
+    Stelvio Cipriani: 2
+    Stephen Barton: 1
+    Stephen Dawes: 1
+    Stephen Sanchez: 4
+    Stereophonics: 1
+    Steve Earle: 1
+    Steve Jablonsky: 6
+    Steve Lacy: 5
+    Steven Price: 2
+    Stevie Nicks: 2
+    Still Corners: 1
+    Stimming x Lambert: 1
+    Sting: 12
+    Stone Canyons: 1
+    Strawberry Guy: 1
+    Stray Currents: 1
+    Stromae: 1
+    Suark: 1
+    Sufjan Stevens: 2
+    Sugababes: 1
+    Sugar Jesus: 2
+    Sugarland: 2
+    Suki Waterhouse: 5
+    Sum 41: 3
+    Summer Walker: 4
+    Sunidhi Chauhan: 1
+    Superfruit: 1
+    Superheaven: 1
+    Superpoze: 1
+    Surf Curse: 2
+    Surf Mesa: 1
+    Surfaces: 1
+    Surreal_dvd: 1
+    Survivor: 1
+    Suzanne Vega: 1
+    Swedish House Mafia: 2
+    Swingin' Neckbreakers: 1
+    Switch Disco: 1
+    Sydney Rose: 2
+    Sylvia Black: 1
+    System Of A Down: 6
+    T.I.: 1
+    T.V. Carpio: 1
+    TAILIAH BREON: 1
+    TAMMO: 1
+    THE ANXIETY: 1
+    THE RUMORS: 1
+    THE SCOTTS: 1
+    TIMBER: 1
+    TOMMYANDMARY: 1
+    TOOPOOR: 1
+    TOTO: 1
+    TRFN: 1
+    TV Girl: 16
+    TV On The Radio: 1
+    TWICE: 2
+    Taene: 1
+    Taio Cruz: 4
+    Take That: 5
+    Tamba Tha God: 1
+    Tame Impala: 13
+    Tamio Okuda: 1
+    Tarja Preta 013: 1
+    Tash Sultana: 1
+    Tate McRae: 48
+    Taylor Swift: 324
+    Tears For Fears: 1
+    Teddy: 2
+    Teddy Swims: 3
+    Teena Marie: 1
+    Ten Years After: 1
+    Tenseoh: 2
+    Tera Lynne Fister: 1
+    Terence Blanchard: 2
+    Terry Parks: 1
+    The 1975: 6
+    The 502s: 1
+    The All-American Rejects: 2
+    The American Dawn: 1
+    The Animals: 1
+    The Band Perry: 1
+    The Beatles: 20
+    The Black Keys: 3
+    The Blue Notes: 1
+    The Calling: 1
+    The Chainsmokers: 19
+    The Chemical Brothers: 4
+    The Chi-Lites: 1
+    The Chicks: 3
+    The Cinematic Orchestra: 1
+    The City of Prague Philharmonic Orchestra: 3
+    The Cranberries: 5
+    The Donnas: 1
+    The Doors: 1
+    The Dubliners: 1
+    The Dø: 1
+    The Eternal Dreamers: 1
+    The Evolved: 1
+    The Film Score Orchestra: 1
+    The Flight: 1
+    The Fray: 3
+    The Game: 4
+    The Goo Goo Dolls: 2
+    The Handsome Family: 1
+    The Haygoods: 1
+    The Heavy: 1
+    The Hellbenders: 1
+    The High Kings: 1
+    The Irish Rovers: 1
+    The Jackson 5: 1
+    The Jesus and Mary Chain: 1
+    The Kid LAROI: 11
+    The Killers: 5
+    The Kills: 1
+    The Kinks: 4
+    The Kooks: 1
+    The Last Dinner Party: 1
+    The Last Shadow Puppets: 1
+    The Lively Ones: 1
+    The Loft Club: 1
+    The Lumineers: 2
+    The Macarons Project: 1
+    The Mamas & The Papas: 1
+    The Marías: 4
+    The Mutants: 1
+    The Mystics: 1
+    The Neighbourhood: 77
+    The Notorious B.I.G.: 5
+    The Outfield: 1
+    The Pharcyde: 1
+    The Platters: 1
+    The Police: 1
+    The Pretty Reckless: 3
+    The Pussycat Dolls: 2
+    The Queen Wasps: 1
+    The Rare Occasions: 2
+    The Rasmus: 1
+    The Raven Vox: 1
+    The Real Thing: 1
+    The Red Clay Strays: 1
+    The Red Jumpsuit Apparatus: 1
+    The Relentless: 2
+    The Rolling Stones: 3
+    The Ronettes: 1
+    The Roots: 1
+    The Royal Philharmonic Concert Orchestra: 1
+    The Script: 7
+    The Secret Sisters: 1
+    The Skallywags: 1
+    The Smashing Pumpkins: 1
+    The Smiths: 7
+    The Sound Mind Network: 1
+    The Space Ocean: 2
+    The Strokes: 6
+    The Struts: 1
+    The Temper Trap: 2
+    The Temptations: 1
+    The Used: 1
+    The Vamps: 3
+    The Velvet Underground: 1
+    The Velveteers: 1
+    The Veronicas: 3
+    The Verve: 2
+    The Walters: 1
+    The Wanted: 5
+    The War On Drugs: 1
+    The Weeknd: 141
+    The White Stripes: 3
+    The Wombats: 1
+    The Zombies: 1
+    The xx: 1
+    TheDoDo: 1
+    Thierry Von Der Warth: 2
+    Third Vibes: 1
+    Thirty Seconds To Mars: 1
+    Thom Yorke: 5
+    Thomas Day: 1
+    Thomas Newman: 5
+    Thomas Rhett: 3
+    Thornetta Davis: 1
+    Three Days Grace: 8
+    Three Loco: 1
+    Tim McGraw: 9
+    Timbaland: 6
+    Timber Timbre: 1
+    Timmy Trumpet: 1
+    Timothée Chalamet: 1
+    Tinariwen: 2
+    Tinashe: 2
+    Tinie Tempah: 2
+    Tiësto: 9
+    Toby Keith: 6
+    Toby Mai: 1
+    Todrick Hall: 2
+    Tokio Hotel: 2
+    Tolou: 1
+    Tom Frane: 1
+    Tom Grennan: 1
+    Tom Hiddleston: 1
+    Tom Odell: 4
+    Tom Petty: 1
+    Tom Waits: 1
+    Tomcraft: 1
+    Tommee Profitt: 1
+    Tommy Richman: 2
+    Tones And I: 2
+    Toni dos Anjos: 1
+    Toosii: 1
+    Topic: 3
+    Toploader: 2
+    Tora: 1
+    Tory Lanez: 4
+    Tove Lo: 5
+    Tracy Lawrence: 2
+    Traditional: 1
+    Train: 5
+    Transviolet: 1
+    Trash Boat: 1
+    Travie McCoy: 2
+    Travis Scott: 33
+    Travis Tritt: 2
+    Trevor Daniel: 2
+    Trevor Jones: 1
+    Trevor Morris: 5
+    Trevor Rabin: 2
+    Trey Songz: 3
+    Trippie Redd: 2
+    Troy: 1
+    Troye Sivan: 7
+    Tsukasa Saitoh: 1
+    Tungevaag: 1
+    Tweekacore: 1
+    Twenty One Pilots: 14
+    Twin Shadow: 1
+    Two Door Cinema Club: 2
+    Two Feet: 25
+    Two Steps from Hell: 1
+    Two Worlds II: 1
+    Ty Dolla $ign: 1
+    Tyga: 3
+    Tyla: 4
+    Tyler Bates: 4
+    Tyler, The Creator: 8
+    TØRISMAD: 1
+    TÚLIO PEREIRA: 1
+    U2: 1
+    ULTRA SUNN: 1
+    UMAII: 1
+    UPSAHL: 1
+    USHER: 7
+    Uhfwea: 1
+    Umur Anil Gokdag: 7
+    Unaloon: 1
+    Unknown T: 1
+    Unlike Pluto: 17
+    Unloved: 1
+    VAMERO: 1
+    VCTRYS: 1
+    VIZE: 2
+    VNV Nation: 1
+    Vacations: 1
+    Valentin: 3
+    Valve Studio Orchestra: 3
+    Van Herpen: 1
+    Van Morrison: 1
+    Vance Joy: 3
+    Vanessa Carlton: 2
+    Vanessa Da Mata: 1
+    Vanna Rainelle: 1
+    Vengaboys: 1
+    Verzache: 1
+    Vestron Vulture: 1
+    Vicarious Visions Audio: 1
+    Victoria Monét: 1
+    Vida: 1
+    Video Game Players: 1
+    Video Games Live: 1
+    Vierre Cloud: 1
+    Vince Bello: 1
+    Vince Gill: 1
+    Vince Staples: 1
+    Virgil Howe: 1
+    Virtual Riot: 1
+    Visibly True: 1
+    Voncho: 1
+    Vundabar: 1
+    W Sound: 1
+    WALK THE MOON: 1
+    WILLOW: 4
+    WTE LIK: 1
+    WWE: 3
+    Wafia: 2
+    Waka Flocka Flame: 1
+    Wale: 2
+    Wallows: 2
+    Warpaint: 1
+    Waylon Jennings: 1
+    Wayne Marshall: 1
+    Waytoolost: 1
+    Wegz: 12
+    Weisser Quiff: 1
+    Westerlund: 1
+    Westside Connection: 2
+    Weyes Blood: 1
+    What Matters The Most: 1
+    Wheatus: 1
+    Wheeler Walker Jr.: 2
+    Whethan: 1
+    Whiskey Myers: 1
+    WhiteBuffs: 1
+    Whoopa: 1
+    Wilkinson: 1
+    Will Roush: 3
+    Will Smith: 1
+    Willamette Stone: 1
+    Willie Nelson: 2
+    Witt Lowry: 1
+    Wiz Khalifa: 4
+    WizTheMc: 1
+    Wizkid: 1
+    Wolf Alice: 2
+    Wolfgang Amadeus Mozart: 1
+    Wolfmother: 1
+    Woodkid: 1
+    Woody Jackson: 6
+    Wu-Tang Clan: 3
+    X: 1
+    X Ambassadors: 1
+    XO TEAM: 1
+    XXKATUSJINSUX: 1
+    XXXTENTACION: 8
+    XYLØ: 1
+    Xander Ward: 5
+    Xanemusic: 1
+    Xavi: 2
+    Y2K: 1
+    YALL: 1
+    YG: 1
+    YG Marley: 1
+    YGF DEVO: 3
+    YNW Melly: 2
+    YONAKA: 1
+    YULEE: 1
+    YUNG ALPO: 1
+    YUNGBLUD: 2
+    Yaima: 3
+    Yandel: 1
+    Yasuharu Takanashi: 23
+    Yasunori Nishiki: 1
+    Yeah Yeah Yeahs: 1
+    Yeahman: 1
+    Yeat: 3
+    Yelawolf: 1
+    Ylvis: 1
+    Yng Lvcas: 1
+    Yorina: 1
+    Yoshihisa Hirano: 8
+    Yot Club: 1
+    You Me At Six: 1
+    Young M.A: 2
+    Young Money: 1
+    Young Stoner Life: 1
+    Young Thug: 4
+    Young the Giant: 1
+    YoungBoy Never Broke Again: 5
+    Youngbloodz: 1
+    Your Anxiety Buddy: 1
+    Yuka Kitamura: 1
+    Yuki Hayashi: 2
+    Yung Gravy: 1
+    Yunggoth✰: 1
+    Yutaka Yamada: 2
+    ZAYN: 8
+    ZULAN: 1
+    Zach Bryan: 2
+    Zach Templar: 1
+    Zaid Khaled: 1
+    Zara Larsson: 5
+    Zauntee: 1
+    Zedd: 3
+    Zelda: 1
+    Zerb: 2
+    Zoe Wees: 1
+    Zombie Nation: 1
+    Zummer: 2
+    a-ha: 1
+    aeseaes: 1
+    aespa: 1
+    akira2k: 1
+    alt-J: 3
+    bands<3: 1
+    bbno$: 2
+    beabadoobee: 3
+    benny blanco: 3
+    blackbear: 8
+    blink-182: 5
+    bôa: 1
+    carwash: 2
+    cassö: 1
+    chicago city: 1
+    chuck e. myers 'sea': 2
+    cowboy: 1
+    d4vd: 6
+    daigoro789: 2
+    davvn: 2
+    deer noir: 1
+    dreamsoda: 1
+    dreamy: 1
+    f(x): 1
+    flora cash: 1
+    framed: 1
+    frumhere: 1
+    fun.: 3
+    gigi: 1
+    girl in red: 15
+    gnash: 2
+    grandson: 1
+    hxnry: 1
+    iamjakehill: 1
+    iamnotshane: 1
+    iñigo quintero: 1
+    jan2k1: 1
+    joegarratt: 1
+    kikomori: 1
+    kirkiimad: 1
+    kobzx2z: 1
+    lagosta: 1
+    lilster: 2
+    lovemyvictims: 1
+    lucidbeatz: 2
+    mansionz: 1
+    marble fade: 1
+    mavzy grx: 1
+    mazie: 1
+    mehro: 1
+    metr: 1
+    mgk: 36
+    midnight Berlin: 10
+    moow: 1
+    mrs.tissue: 1
+    my bloody valentine: 1
+    nbmusic: 1
+    nilu: 1
+    niteboi: 1
+    noturgf: 1
+    pearl: 1
+    ptasinski: 1
+    raysoo: 1
+    reclabs: 1
+    retz: 1
+    salem ilese: 1
+    salvia palth: 2
+    sapientdream: 1
+    shams: 1
+    shotty: 2
+    sleepy dawg: 1
+    slō: 1
+    sombr: 15
+    sorry, alone: 1
+    sped up nightcore: 1
+    sped up viral: 1
+    st.James: 1
+    syre: 1
+    sûr faire: 1
+    t.A.T.u.: 1
+    the bird and the bee: 1
+    toon: 4
+    turndownn: 1
+    untrusted: 1
+    verifiziert: 1
+    weeklyn: 3
+    weknewnothing: 1
+    why mona: 1
+    will hyde: 1
+    will.i.am: 4
+    xoxomyah: 1
+    xxanteria: 1
+    ylsounds: 1
+    yung kai: 1
+    zandros: 2
+    zukrassverliebt: 1
+    ¥$: 1
+    Ängie: 1
+    Ólafur Arnalds: 1
+    Öwnboss: 1
+    加藤達也: 3
+    攬佬SKAI ISYOURGOD: 1
+    時瀬高等学校箏曲部: 1
+    桑原まこ: 1
+    梶浦 由記: 1
+    藤澤慶昌: 2
+
+## DISTRIBUCIÓN POR AÑO
+    1952: 1
+    1958: 1
+    1959: 5
+    1960: 1
+    1962: 5
+    1963: 1
+    1964: 1
+    1965: 3
+    1966: 8
+    1967: 11
+    1968: 3
+    1969: 17
+    1970: 9
+    1971: 7
+    1972: 4
+    1973: 16
+    1974: 2
+    1975: 10
+    1976: 7
+    1977: 9
+    1978: 10
+    1979: 5
+    1980: 9
+    1981: 5
+    1982: 3
+    1983: 5
+    1984: 8
+    1985: 8
+    1986: 12
+    1987: 34
+    1988: 7
+    1989: 7
+    1990: 8
+    1991: 94
+    1992: 15
+    1993: 52
+    1994: 51
+    1995: 27
+    1996: 27
+    1997: 30
+    1998: 36
+    1999: 64
+    2000: 59
+    2001: 75
+    2002: 81
+    2003: 101
+    2004: 56
+    2005: 88
+    2006: 92
+    2007: 109
+    2008: 95
+    2009: 157
+    2010: 240
+    2011: 258
+    2012: 315
+    2013: 308
+    2014: 348
+    2015: 383
+    2016: 376
+    2017: 458
+    2018: 522
+    2019: 496
+    2020: 480
+    2021: 443
+    2022: 468
+    2023: 523
+    2024: 648
+    2025: 765
+
+## DISTRIBUCIÓN POR AÑO-MES
+    1952-09: 1
+    1958-01: 1
+    1959-02: 1
+    1959-06: 3
+    1959-07: 1
+    1960-12: 1
+    1962-01: 1
+    1962-06: 1
+    1962-08: 1
+    1962-11: 2
+    1963-06: 1
+    1964-02: 1
+    1965-03: 1
+    1965-04: 1
+    1965-06: 1
+    1966-01: 1
+    1966-04: 1
+    1966-06: 3
+    1966-08: 1
+    1966-10: 1
+    1966-12: 1
+    1967-01: 1
+    1967-05: 1
+    1967-06: 7
+    1967-08: 1
+    1967-09: 1
+    1968-10: 2
+    1968-12: 1
+    1969-09: 17
+    1970-03: 1
+    1970-06: 2
+    1970-07: 1
+    1970-09: 3
+    1970-11: 1
+    1970-12: 1
+    1971-01: 1
+    1971-04: 1
+    1971-05: 1
+    1971-06: 1
+    1971-08: 1
+    1971-11: 1
+    1971-12: 1
+    1972-03: 1
+    1972-06: 3
+    1973-01: 2
+    1973-03: 10
+    1973-04: 1
+    1973-06: 1
+    1973-07: 1
+    1973-11: 1
+    1974-06: 1
+    1974-10: 1
+    1975-06: 1
+    1975-07: 2
+    1975-09: 6
+    1975-11: 1
+    1976-06: 6
+    1976-12: 1
+    1977-01: 1
+    1977-02: 3
+    1977-06: 2
+    1977-08: 1
+    1977-10: 1
+    1977-11: 1
+    1978-04: 2
+    1978-06: 4
+    1978-10: 2
+    1978-11: 2
+    1979-03: 1
+    1979-06: 2
+    1979-07: 1
+    1979-10: 1
+    1980-01: 1
+    1980-05: 1
+    1980-06: 4
+    1980-07: 1
+    1980-09: 1
+    1980-11: 1
+    1981-06: 1
+    1981-07: 2
+    1981-11: 1
+    1981-12: 1
+    1982-01: 1
+    1982-04: 1
+    1982-11: 1
+    1983-01: 1
+    1983-06: 1
+    1983-07: 1
+    1983-10: 1
+    1983-11: 1
+    1984-01: 2
+    1984-06: 3
+    1984-10: 1
+    1984-12: 2
+    1985-01: 1
+    1985-02: 1
+    1985-06: 3
+    1985-09: 1
+    1985-11: 2
+    1986-01: 3
+    1986-03: 2
+    1986-05: 1
+    1986-06: 4
+    1986-08: 2
+    1987-01: 12
+    1987-04: 1
+    1987-06: 3
+    1987-07: 3
+    1987-08: 12
+    1987-09: 2
+    1987-10: 1
+    1988-01: 1
+    1988-06: 1
+    1988-07: 1
+    1988-11: 4
+    1989-01: 2
+    1989-06: 3
+    1989-10: 1
+    1989-11: 1
+    1990-01: 3
+    1990-02: 1
+    1990-05: 1
+    1990-07: 1
+    1990-09: 1
+    1990-11: 1
+    1991-01: 8
+    1991-03: 1
+    1991-07: 1
+    1991-08: 3
+    1991-09: 79
+    1991-11: 2
+    1992-01: 6
+    1992-03: 1
+    1992-06: 1
+    1992-09: 1
+    1992-10: 3
+    1992-12: 3
+    1993-01: 1
+    1993-02: 14
+    1993-03: 15
+    1993-04: 1
+    1993-06: 2
+    1993-07: 3
+    1993-09: 8
+    1993-10: 2
+    1993-11: 5
+    1993-12: 1
+    1994-01: 15
+    1994-03: 2
+    1994-04: 2
+    1994-05: 1
+    1994-06: 2
+    1994-07: 2
+    1994-08: 3
+    1994-09: 2
+    1994-10: 18
+    1994-11: 4
+    1995-01: 9
+    1995-03: 3
+    1995-04: 2
+    1995-06: 4
+    1995-08: 1
+    1995-09: 1
+    1995-10: 6
+    1995-11: 1
+    1996-01: 2
+    1996-02: 3
+    1996-04: 2
+    1996-06: 3
+    1996-07: 4
+    1996-08: 1
+    1996-09: 5
+    1996-10: 5
+    1996-11: 2
+    1997-01: 5
+    1997-02: 1
+    1997-03: 1
+    1997-05: 13
+    1997-06: 5
+    1997-08: 1
+    1997-09: 2
+    1997-10: 1
+    1997-11: 1
+    1998-01: 8
+    1998-03: 1
+    1998-05: 1
+    1998-06: 4
+    1998-07: 3
+    1998-08: 3
+    1998-09: 12
+    1998-11: 3
+    1998-12: 1
+    1999-01: 11
+    1999-02: 4
+    1999-04: 1
+    1999-05: 7
+    1999-06: 13
+    1999-07: 2
+    1999-08: 1
+    1999-09: 2
+    1999-10: 5
+    1999-11: 16
+    1999-12: 2
+    2000-01: 6
+    2000-03: 2
+    2000-04: 1
+    2000-05: 2
+    2000-06: 7
+    2000-07: 10
+    2000-08: 1
+    2000-09: 1
+    2000-10: 25
+    2000-11: 4
+    2001-01: 33
+    2001-03: 3
+    2001-05: 1
+    2001-06: 9
+    2001-07: 8
+    2001-08: 4
+    2001-09: 5
+    2001-10: 4
+    2001-11: 5
+    2001-12: 3
+    2002-01: 10
+    2002-02: 1
+    2002-03: 2
+    2002-04: 3
+    2002-05: 23
+    2002-06: 15
+    2002-07: 5
+    2002-08: 5
+    2002-09: 1
+    2002-10: 6
+    2002-11: 8
+    2002-12: 2
+    2003-01: 25
+    2003-02: 4
+    2003-03: 20
+    2003-04: 3
+    2003-05: 2
+    2003-06: 10
+    2003-07: 11
+    2003-08: 1
+    2003-09: 1
+    2003-10: 5
+    2003-11: 16
+    2003-12: 3
+    2004-01: 11
+    2004-02: 1
+    2004-03: 5
+    2004-04: 3
+    2004-05: 5
+    2004-06: 12
+    2004-07: 2
+    2004-08: 3
+    2004-09: 5
+    2004-10: 2
+    2004-11: 7
+    2005-01: 24
+    2005-02: 4
+    2005-03: 3
+    2005-04: 1
+    2005-05: 6
+    2005-06: 14
+    2005-07: 2
+    2005-08: 9
+    2005-09: 9
+    2005-11: 11
+    2005-12: 5
+    2006-01: 31
+    2006-02: 2
+    2006-03: 3
+    2006-04: 1
+    2006-05: 4
+    2006-06: 15
+    2006-07: 2
+    2006-08: 7
+    2006-09: 5
+    2006-10: 5
+    2006-11: 4
+    2006-12: 13
+    2007-01: 41
+    2007-03: 1
+    2007-04: 8
+    2007-05: 8
+    2007-06: 16
+    2007-07: 6
+    2007-08: 3
+    2007-09: 6
+    2007-10: 5
+    2007-11: 3
+    2007-12: 12
+    2008-01: 21
+    2008-02: 4
+    2008-03: 3
+    2008-04: 5
+    2008-05: 2
+    2008-06: 17
+    2008-07: 8
+    2008-08: 1
+    2008-09: 15
+    2008-10: 3
+    2008-11: 13
+    2008-12: 3
+    2009-01: 38
+    2009-02: 2
+    2009-03: 3
+    2009-04: 5
+    2009-05: 2
+    2009-06: 18
+    2009-07: 17
+    2009-08: 12
+    2009-09: 12
+    2009-10: 7
+    2009-11: 31
+    2009-12: 10
+    2010-01: 79
+    2010-02: 3
+    2010-03: 13
+    2010-04: 6
+    2010-05: 22
+    2010-06: 33
+    2010-07: 6
+    2010-08: 21
+    2010-09: 6
+    2010-10: 8
+    2010-11: 34
+    2010-12: 9
+    2011-01: 84
+    2011-02: 4
+    2011-03: 21
+    2011-04: 21
+    2011-05: 9
+    2011-06: 32
+    2011-07: 4
+    2011-08: 25
+    2011-09: 13
+    2011-10: 12
+    2011-11: 30
+    2011-12: 3
+    2012-01: 81
+    2012-02: 7
+    2012-03: 15
+    2012-04: 17
+    2012-05: 23
+    2012-06: 19
+    2012-07: 8
+    2012-08: 10
+    2012-09: 24
+    2012-10: 48
+    2012-11: 44
+    2012-12: 19
+    2013-01: 81
+    2013-02: 4
+    2013-03: 6
+    2013-04: 32
+    2013-05: 7
+    2013-06: 30
+    2013-07: 12
+    2013-08: 7
+    2013-09: 39
+    2013-10: 51
+    2013-11: 32
+    2013-12: 7
+    2014-01: 80
+    2014-02: 21
+    2014-03: 28
+    2014-04: 7
+    2014-05: 18
+    2014-06: 40
+    2014-07: 11
+    2014-08: 27
+    2014-09: 21
+    2014-10: 34
+    2014-11: 50
+    2014-12: 11
+    2015-01: 31
+    2015-02: 18
+    2015-03: 21
+    2015-04: 13
+    2015-05: 33
+    2015-06: 17
+    2015-07: 24
+    2015-08: 57
+    2015-09: 31
+    2015-10: 39
+    2015-11: 67
+    2015-12: 32
+    2016-01: 23
+    2016-02: 19
+    2016-03: 13
+    2016-04: 39
+    2016-05: 48
+    2016-06: 36
+    2016-07: 22
+    2016-08: 36
+    2016-09: 17
+    2016-10: 31
+    2016-11: 48
+    2016-12: 44
+    2017-01: 15
+    2017-02: 18
+    2017-03: 33
+    2017-04: 53
+    2017-05: 51
+    2017-06: 65
+    2017-07: 23
+    2017-08: 20
+    2017-09: 23
+    2017-10: 35
+    2017-11: 95
+    2017-12: 27
+    2018-01: 41
+    2018-02: 20
+    2018-03: 38
+    2018-04: 47
+    2018-05: 47
+    2018-06: 65
+    2018-07: 10
+    2018-08: 74
+    2018-09: 25
+    2018-10: 58
+    2018-11: 73
+    2018-12: 24
+    2019-01: 33
+    2019-02: 38
+    2019-03: 43
+    2019-04: 37
+    2019-05: 31
+    2019-06: 32
+    2019-07: 49
+    2019-08: 61
+    2019-09: 38
+    2019-10: 42
+    2019-11: 45
+    2019-12: 47
+    2020-01: 38
+    2020-02: 41
+    2020-03: 56
+    2020-04: 26
+    2020-05: 29
+    2020-06: 17
+    2020-07: 39
+    2020-08: 44
+    2020-09: 45
+    2020-10: 49
+    2020-11: 35
+    2020-12: 61
+    2021-01: 35
+    2021-02: 31
+    2021-03: 49
+    2021-04: 52
+    2021-05: 36
+    2021-06: 41
+    2021-07: 44
+    2021-08: 23
+    2021-09: 29
+    2021-10: 35
+    2021-11: 48
+    2021-12: 20
+    2022-01: 25
+    2022-02: 30
+    2022-03: 27
+    2022-04: 54
+    2022-05: 67
+    2022-06: 29
+    2022-07: 53
+    2022-08: 27
+    2022-09: 43
+    2022-10: 52
+    2022-11: 33
+    2022-12: 28
+    2023-01: 35
+    2023-02: 41
+    2023-03: 47
+    2023-04: 47
+    2023-05: 24
+    2023-06: 36
+    2023-07: 62
+    2023-08: 54
+    2023-09: 59
+    2023-10: 48
+    2023-11: 50
+    2023-12: 20
+    2024-01: 32
+    2024-02: 39
+    2024-03: 87
+    2024-04: 89
+    2024-05: 53
+    2024-06: 70
+    2024-07: 39
+    2024-08: 81
+    2024-09: 50
+    2024-10: 48
+    2024-11: 34
+    2024-12: 26
+    2025-01: 58
+    2025-02: 44
+    2025-03: 61
+    2025-04: 49
+    2025-05: 53
+    2025-06: 69
+    2025-07: 62
+    2025-08: 126
+    2025-09: 126
+    2025-10: 117
